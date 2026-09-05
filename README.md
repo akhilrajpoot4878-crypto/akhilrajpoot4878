@@ -8,9 +8,9 @@
 </p>
 
 ### 👨‍💻 About Me
+- 🌱 Currently Learning: Manual Testing |     SDLC, STLC, Test Cases, Bug Reporting
 - 🎓 Gagan College, Aligarh
-- 🌱 Learning Full Stack Development
-- 🚀 Project: Weather App
+- 🚀 Project: Weather App (HTML | CSS | JavaScript)
 
 ### 📊 Stats
 <p align="center">
